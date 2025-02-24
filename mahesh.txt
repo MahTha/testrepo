@@ -3,3 +3,4 @@ My Father name is Ganesh.
 My Mother name is Sita.
 My Brother name is Manish.
 I pursued my degree from GTU.
+My brother pursued his degree from RTU.
