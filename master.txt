@@ -1,1 +1,2 @@
-I am Math in master branch  
+I am Math in master branch.
+This is the 2 line of master.txt 
